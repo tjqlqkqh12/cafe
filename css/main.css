@@ -1,0 +1,82 @@
+@charset "utf-8";
+
+
+/*mainSlider*/
+.mainSlider{height:650px;position:relative;overflow:hidden;}
+.mainSlider img{position:absolute;left:50%;margin-left:-960px;}
+
+
+/*con01*/
+.con01{padding:50px 0;text-align:center;background:#F5F5F5 url(../images/main/bg_bar_div.gif) no-repeat center center;}
+.con01Wrap{}
+
+.con01Box{text-align:left;display:inline-block;vertical-align:middle;padding:0 30px 0 130px;}
+.con01Box span{display:block;}
+
+.con01Left h2{color:#711903;font-family:'NanumMyeongjo';font-weight:900;padding-bottom:10px;}
+.con01Left p{font-size:13px;padding:20px 0;}
+
+.con01Right{font-size:12px;line-height:22px;}
+
+.moreBtn a img{width:40px;margin-top:10px;margin-left:10px;}
+
+
+/*con02*/
+.con02{background:url(../images/main/visual01.jpg) no-repeat;background-size:cover;background-attachment:fixed;color:#fff;text-align:center;padding:80px 0;}
+.con02 h2{font-size:28px;font-weight:400;background:url(../images/main/tit_line_bot.png)no-repeat center bottom;padding-bottom:30px;}
+.con02 h4{font-size:15px;margin-top:30px;margin-bottom:30px;}
+.con02 p{font-size:13px;line-height:25px;}
+
+.con02Btn a img{width:40px;margin-top:100px;}
+
+
+/*con03*/
+.con03{text-align:center;padding:50px 0;}
+.con03 h2{color:#711903;font-family:'NanumMyeongjo';font-weight:900;padding-bottom:30px;}
+.con03>p{font-size:12px;margin-bottom:20px;}
+
+.con03Menu li{float:left;position:relative;margin-left:3px;margin-top:3px;}
+.con03Menu li:first-child{margin-left:0;}
+.con03Menu li a img{display:block;}
+
+.menuInfo{position:absolute;width:100%;bottom:20px;}
+.menuInfo h4{color:#896E77;}
+.menuInfo p{color:#333;font-size:12px;margin-top:5px;}
+
+
+/*con04*/
+.con04{background-image:url(../images/main/visual02.jpg);background-attachment:inherit;}
+.con04 h2{font-family:'NanumMyeongjo';font-weight:900;}
+
+.SearchBtn a img{width:280px;margin-top:30px;}
+
+
+/*con05*/
+.con05{background:#BEB4AF;color:#fff;text-align:center;padding:40px 0;}
+.con05 span{vertical-align:middle;}
+
+.con05Tit{font-size:22px;font-family:'NanumMyeongjo';font-weight:900;margin-right:40px;}
+
+.con05Btn a img{width:40px;margin-left:20px;}
+
+
+/*con06*/
+.con06{background:url(../images/main/bg_visual.jpg)no-repeat center center;background-size:cover;padding:50px 0;}
+.con06 ul{}
+.con06 li{float:left;text-align:center;width:300px;font-family:'NanumMyeongjo';font-weight:900;padding:30px 15px;box-sizing:border-box;}
+.con06 li:last-child{margin-right:0;}
+.con06 h4{color:#72645a;font-size:17px;}
+.con06 h4 img{width:20px;vertical-align:middle;margin-right:10px;margin-bottom:10px;}
+.con06 h4 span{vertical-align:middle;}
+.con06 li p{font-size:13px;}
+
+
+
+
+
+
+
+
+
+
+
